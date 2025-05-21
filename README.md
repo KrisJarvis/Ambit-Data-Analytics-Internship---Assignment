@@ -1,10 +1,10 @@
 # 📊 Client Interaction & Revenue Analysis Dashboard
 
-This repository contains an interactive business intelligence dashboard built using *Power BI* (or Excel) to analyze MIS data of client interactions, analyst/sales engagement, and revenue trends.
+This repository contains an interactive business intelligence dashboard built using *Power BI* to analyze MIS data of client interactions, analyst/sales engagement, and revenue trends.
 
 ## 📁 Dataset
 
-The data is extracted from the file: Ambit Data Analyst Assignment (1).xlsx and includes the following sheets:
+The data is extracted from the file: Ambit Data Analyst Assignment.xlsx and includes the following sheets:
 
 - *MIS Data*: Logs of meetings and interactions between Analysts, Sales Representatives, and Clients.
 - *Daily Revenue*: Daily revenue figures for each Client Company.
@@ -51,12 +51,6 @@ The data is extracted from the file: Ambit Data Analyst Assignment (1).xlsx and 
 1. Download the .pbix file from this repository.
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 3. Use the slicers and visuals to explore insights.
-
-### Option 2: Excel Dashboard
-1. Open the Excel Dashboard.xlsx file.
-2. Navigate to the Dashboard sheet.
-3. Use filters and pivot visuals to analyze data.
-
 ---
 
 ## 🔍 Sample Insights
